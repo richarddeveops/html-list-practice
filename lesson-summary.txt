@@ -1,17 +1,8 @@
 HTML LISTS
 
-I learnt three main types of HTML lists. An ordered list uses <ol> when the order matters. An unordered list uses <ul> for bullet points. A descriptive list uses <dl>, with <dt> for a term and <dd> for its description.
+An ordered list (<ol>) is for items whose sequence matters. An unordered list (<ul>) is for a group where sequence does not matter. Each uses <li> for its items. A description list (<dl>) pairs terms in <dt> elements with explanations in <dd> elements.
 
-I practised using lists for favourite foods, ingredients, and cooking steps. I also learnt that block-level and inline elements behave differently on a page and that attributes provide extra information about an element.
+Lists can be nested to show sub-items. Use the list type that matches the information, not just the marker style. Attributes such as start and reversed can change an ordered list.
 
-List and test 20 more elements each and categorize them under block level and inline level elements
-check the attribute 
-sqi
-jumia
-palmpay
-
-Use ordered list to write your best foods, then use unordered list
-to write the ingredients that makes up one of your best food and then use
-descriptive list to write the steps in preparing that your best food (where step 1,
-step 2… are your <dt>).
+For the food assignment, list favourite foods with <ol>, ingredients with <ul>, and preparation steps with <ol> and <li>. Use a description list when presenting terms and their explanations. The separate block-level and inline-element research task is about how elements participate in page layout; it is not another list type.
  
